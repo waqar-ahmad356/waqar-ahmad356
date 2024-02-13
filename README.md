@@ -1,30 +1,23 @@
-# Hello, I'm Waqar 👋
+# Hello, I'm Waqar Ahmad 👋
 
-I'm a passionate software developer with a focus on Python programming. I love building applications, solving problems, and exploring new technologies. Currently, I'm diving deep into data science and machine learning.
+I'm a passionate MERN Stack developer with a focus on JavaScript programming. I love building applications, solving problems, and exploring new technologies. Currently, I'm diving deep into full-stack development with Node.js, React.js, MongoDB, and Express.js.
 
 ## 🌱 What I'm Up To
 
-- 📚 Learning and practicing Python programming concepts.
-- 🧠 Exploring data science, machine learning, and AI.
+- 📚 Learning and practicing JavaScript programming concepts.
+- 🧠 Exploring MERN Stack development and its components.
 - 🤝 Collaborating on open-source projects to contribute to the community.
 
 ## 💼 Professional Background
 
 - 🎓 Graduated in Computer Science.
-- 💻 Worked on web development projects using Django.
-- 📊 Exploring data analysis and visualization with pandas and matplotlib.
+- 💻 Worked on web development projects using the MERN Stack.
+- 🔗 Experienced in creating APIs with Node.js and Express.js.
+- 🌐 Proficient in building front-end applications using React.js.
+- 🤖 Skilled in MongoDB for database management.
 
 ## 🔗 Connect with Me
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username). Feel free to reach out if you want to discuss Python, software development, or just connect!
+You can find me on [LinkedIn](https://www.linkedin.com/in/waqar-ahmad-0b39b8232/). Feel free to reach out if you want to discuss JavaScript, MERN Stack development, or just connect!
 
-## 🚀 My GitHub Stats
-
-![Waqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true)
-
-## 🌐 Portfolio
-
-Check out my portfolio website to see my projects and learn more about my work: [www.yourportfolio.com](https://www.yourportfolio.com)
-
-Let's learn, grow, and build amazing things together! 🚀
 
